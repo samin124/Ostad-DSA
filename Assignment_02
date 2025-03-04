@@ -1,1 +1,2 @@
-
+In this file I checked for a Word consonent or not.First of all I took a number from user and then checked is it a valid word or not using a function .
+Here i used another 2 functions where a function counting the consonants and another one is detecting the consonent
